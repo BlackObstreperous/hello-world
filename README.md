@@ -1,5 +1,4 @@
 # hello-world
 Hey everybody !
 
-I'm Sarah, and I'm a 16 years old student in languages and litterature (even if I hate litterature). High-school's not for me (too boring I would say), and that's why I want to start university as soon as possible !
-I went to Nantes to buy some mangas with friends, and it was quite fun.
+I'm Sarah, and I'm a 16 years old french student, in languages and litterature (even if I hate litterature). High-school's not for me (too boring I would say), and that's why I want to start university as soon as possible ! I learn english (so sorry if I make mistakes) and german; and I speak fluent franch, since it's my mother tongue. I would like to travel during my studies, to Japan if possible (would be wonderful) or England, a country I think is beautiful *-*. Whatever, I'm learning programming, because I want to enter army after studying, and knowing how to program is such an adventage. Those days I don't really have time, because of litterature, biology, physics and chemistry exams. But still, I try to find some moments to explore internet a bit, and learn as much as possible. Thanks for reading this, and I wish you a good day ! ;)
